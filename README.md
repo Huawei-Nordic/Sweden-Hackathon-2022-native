@@ -32,6 +32,8 @@ There are solutions.
 
 - for Unity: https://github.com/EvilMindDevs/Huawei-Video-Content-Maze-Game 
 
+- for Lite Wearbale development: https://github.com/buiquanghuy23103/sweden-hackathon-2022-lite-wearable
+
 More HMS code samples:
 
 - https://github.com/HMS-Core 
