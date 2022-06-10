@@ -28,7 +28,7 @@ There are solutions.
 
 ### Starter projects for other platforms
 
-- for React Native: https://github.com/Huawei-Nordic/junction2021_reactnative
+- for React Native: https://github.com/Huawei-Nordic/Sweden-Hackathon-2022-ReactNative
 
 - for Unity: https://github.com/EvilMindDevs/Huawei-Video-Content-Maze-Game 
 
